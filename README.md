@@ -1,2 +1,1 @@
-# latihan-branch-dicoding
-Disini saya akan belajar cara membuat cabang atau branch di dicoding. 
+# Ini adalah repository untuk latihan membuat branch baru di Github.
